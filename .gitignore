@@ -1,0 +1,12 @@
+# file types
+*.pyc
+\#*\#
+.*.sw?
+.swp
+## *.desktop
+*.old
+*.bak
+.~lock.*#
+.DS_Store
+# dirs
+.virtualenv
